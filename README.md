@@ -1,2 +1,5 @@
-# Planificador-de-procesos
-planificador de procesos con servicio web en node.js
+# Study of Processor plannification algorithms
+
+1. FIFO
+2. LIFO
+3. Round-Robin
